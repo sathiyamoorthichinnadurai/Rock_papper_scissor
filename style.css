@@ -12,7 +12,7 @@ p{
 
 #your-choice{
     width: 240px;
-    height: 150px;
+    height: 100px;
     border-radius: 50px;
     color: #ffff;
     border: 1px solid black;
@@ -21,7 +21,7 @@ p{
 }
 #opponent-choice{
     width: 240px;
-    height: 150px;
+    height: 100px;
     border-radius: 50px;
     border: 1px solid black;
     
