@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+    font-family: sans-serif;
+    background: linear-gradient(to left, rgba(255,0,0,0), rgba(255,0,0,1));;
+}
+    
+p{
+    color: #fff;
+    font-weight: 500;
+
+} 
+
+#your-choice{
+    width: 240px;
+    height: 150px;
+    border-radius: 50px;
+    color: #ffff;
+    border: 1px solid black;
+    
+
+}
+#opponent-choice{
+    width: 240px;
+    height: 150px;
+    border-radius: 50px;
+    border: 1px solid black;
+    
+   
+    
+}
+.choices{
+    width: 240px;
+    height: 80px;
+     
+    margin: auto;
+   
+}
+.choices img{
+    width: 65px;
+    height: 80px;
+    margin: 0 5px;
+    border-radius: 20px;
+    border: 1px solid tomato;
+    
+}
